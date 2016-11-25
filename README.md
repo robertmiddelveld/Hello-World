@@ -1,5 +1,5 @@
 # Hello-World
-just testin
+just testing
 
 <head>
 this is a new file
